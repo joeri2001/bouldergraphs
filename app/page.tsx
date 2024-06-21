@@ -1,7 +1,9 @@
+import Navbar from "@/app/components/organisms/navbar/navbar";
+
 export default function Home() {
     return (
         <div>
-            <p>test</p>
+            <Navbar />
         </div>
     );
 }
